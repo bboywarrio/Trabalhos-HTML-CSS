@@ -2,6 +2,8 @@
 Turma: FrontEnd Essencial
 QUA02492024O028
 Aluno: Victor Miguel da Silva - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-miguel-da-silva-28923b242/)
+
+
 Professor: NIVALDO BATISTA DE ARAUJO - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-araujo-546a51248/)
 
 Este repositório contém os exercícios realizados pelo aluno durante o curso de Front-end no SENAI Maracanã . Abaixo estão os detalhes de cada exercício:
