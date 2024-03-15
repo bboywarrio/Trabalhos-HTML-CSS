@@ -5,10 +5,7 @@ Este repositório contém os exercícios realizados pelo aluno durante o curso d
 ## Lista.html
 
 ### Descrição:
-- Página HTML simples contendo uma lista de exercícios.
-
-### Resumo:
-- Criada uma lista de exercícios básica.
+- Página HTML simples contendo um currículo feito em html
 
 ## Formulario.html
 
@@ -18,6 +15,7 @@ Este repositório contém os exercícios realizados pelo aluno durante o curso d
 ### Resumo:
 - Implementado um formulário de comentário com campos de nome, email, website (opcional) e comentário.
 - Adicionada uma mensagem de observação.
+- Adicionado validação de inserção de dados nos campos de nome,email,website e comentário.
 
 ## Tabelas.html
 
