@@ -9,12 +9,12 @@ Professor: NIVALDO BATISTA DE ARAUJO - [![LinkedIn](https://img.shields.io/badge
 
 Este repositório contém os exercícios realizados pelo aluno durante o curso de Front-end no SENAI Maracanã . Abaixo estão os detalhes de cada exercício:
 
-## Lista.html
+## [Lista.html](lista.html)
 
 ### Descrição:
 - Página HTML simples contendo um currículo feito em html
 
-## Formulario.html
+## [Formulario.html](formulario.html)
 
 ### Descrição:
 - Página HTML com um formulário de comentário.
@@ -24,15 +24,8 @@ Este repositório contém os exercícios realizados pelo aluno durante o curso d
 - Adicionada uma mensagem de observação.
 - Adicionado validação de inserção de dados nos campos de nome,email,website e comentário.
 
-
-- [formulario.html](formulario.html)
-- [lista.html](lista.html)
-- [script.js](script.js)
-- [styles.css](styles.css)
-- [tabelas.html](tabelas.html)
-
   
-## Tabelas.html
+## [Tabelas.html](tabelas.html)
 
 ### Descrição:
 - Página HTML com diferentes tipos de tabelas.
@@ -42,6 +35,10 @@ Este repositório contém os exercícios realizados pelo aluno durante o curso d
   1. Simples com cabeçalho.
   2. Com `<thead>`, `<tfoot>` e `<tbody>`.
   3. Utilizando `<colgroup>` para definir larguras das colunas.
+
+  
+# [Script.js](script.js)
+# [Styles.css](styles.css)
 
 ## Contato
 
