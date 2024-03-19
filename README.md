@@ -24,6 +24,14 @@ Este repositório contém os exercícios realizados pelo aluno durante o curso d
 - Adicionada uma mensagem de observação.
 - Adicionado validação de inserção de dados nos campos de nome,email,website e comentário.
 
+
+- [formulario.html](formulario.html)
+- [lista.html](lista.html)
+- [script.js](script.js)
+- [styles.css](styles.css)
+- [tabelas.html](tabelas.html)
+
+  
 ## Tabelas.html
 
 ### Descrição:
